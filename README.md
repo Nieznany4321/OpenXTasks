@@ -15,5 +15,7 @@ The total price from task 2 has been rounded to 1 decimal place.
 The data was taken from the links below:
 
 Users: https://fakestoreapi.com/users
+
 Carts: https://fakestoreapi.com/carts
+
 Products: https://fakestoreapi.com/products
