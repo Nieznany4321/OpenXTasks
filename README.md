@@ -8,4 +8,12 @@ products in a given category
 
 The screenshot below shows the effect of running  program:
 
+The total price from task 2 has been rounded to 1 decimal place.
+
 ![exec](https://user-images.githubusercontent.com/59314982/231384242-797803b9-c5fe-47bf-bb58-c683c31fffab.png)
+
+The data was taken from the links below:
+
+Users: https://fakestoreapi.com/users
+Carts: https://fakestoreapi.com/carts
+Products: https://fakestoreapi.com/products
